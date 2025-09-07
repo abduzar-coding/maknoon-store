@@ -89,7 +89,7 @@ export default function App() {
           flex items-center justify-center
           overflow-y-auto rounded-2xl 
           shadow-[0_20px_40px_rgba(0,0,0,0.2)] 
-          bg-white/30 transform transition-transform duration-500
+          bg-white/60 transform transition-transform duration-500
           hover:rotate-x-2 hover:rotate-y-2
         "
       >
