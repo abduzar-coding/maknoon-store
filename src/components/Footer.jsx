@@ -15,16 +15,10 @@ export default function Footer() {
             Telegram
           </a>
           <a
-            href="mailto:info@maknoon.uz"
+            href="#"
             className="hover:text-indigo-600 transition"
           >
-            Email
-          </a>
-          <a
-            href="tel:+998901234567"
-            className="hover:text-indigo-600 transition"
-          >
-            +998 90 123 45 67
+            Instagram
           </a>
         </div>
       </div>

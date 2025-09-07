@@ -11,42 +11,42 @@ export default function App() {
     {
       id: 1,
       name: "Qur’on Jurnali",
-      img: "/images/quron-jurnali.jpeg",
+      img: "/images/quron-jurnali.jpg",
       description: "Qur’on o‘qishni rejalashtirish va qayd qilish uchun maxsus jurnal.",
       price: "79 000 so‘m"
     },
     {
       id: 2,
       name: "Arabcha Husnixat Daftari",
-      img: "/images/arabcha-husnixat.jpeg",
+      img: "/images/arabcha-husnixat.jpg",
       description: "Arab yozuvini go‘zal va to‘g‘ri yozishni o‘rgatuvchi mashq daftari.",
       price: "59 000 so‘m"
     },
     {
       id: 3,
       name: "Asma-ul Husna Jurnali",
-      img: "/images/asma-ul-husna.jpeg",
+      img: "/images/asma-ul-husna.jpg",
       description: "Allohning go‘zal ismlari bilan tanishish va kundalik yozuvlar uchun jurnal.",
       price: "89 000 so‘m"
     },
     {
       id: 4,
       name: "Husnixati Qur’on (1–10 pora)",
-      img: "/images/quron-husnixat1.jpeg",
+      img: "/images/quron-husnixat1.jpg",
       description: "Qur’onning 1–10 poralari uchun husnixat mashqlari.",
       price: "149 000 so‘m"
     },
     {
       id: 5,
       name: "Husnixati Qur’on (10–20 pora)",
-      img: "/images/quron-husnixat2.jpeg",
+      img: "/images/quron-husnixat2.jpg",
       description: "Qur’onning 10–20 poralari uchun husnixat mashqlari.",
       price: "149 000 so‘m"
     },
     {
       id: 6,
       name: "Husnixati Qur’on (20–30 pora)",
-      img: "/images/quron-husnixat3.jpeg",
+      img: "/images/quron-husnixat3.jpg",
       description: "Qur’onning 20–30 poralari uchun husnixat mashqlari.",
       price: "149 000 so‘m"
     },
