@@ -3,6 +3,8 @@ import Intro from "./components/Intro"
 import ProductCard from "./components/ProductCard"
 import ProductDetailCard from "./components/ProductDetailCard"
 import Footer from "./components/Footer"
+import { motion, AnimatePresence } from "framer-motion"
+
 
 
 export default function App() {
