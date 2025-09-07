@@ -15,8 +15,10 @@ export default function Footer() {
             Telegram
           </a>
           <a
-            href="#"
-            className="hover:text-indigo-600 transition"
+            href="https://instagram.com/noon_blogg"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-pink-500 transition"
           >
             Instagram
           </a>
