@@ -2,8 +2,8 @@ import { FaTelegramPlane, FaInstagram } from "react-icons/fa"
 
 export default function Footer() {
   return (
-    <footer className="w-full bg-slate-100 border-t border-slate-200 py-6">
-      <div className="max-w-6xl mx-auto px-4 flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 text-slate-600 text-sm text-center sm:text-left">
+    <footer className="w-full py-6 bg-transparent">
+        <div className="max-w-6xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-4 text-slate-600 text-sm">
         
         {/* Socials (order-1 on mobile, right on desktop) */}
         <div className="flex justify-center sm:justify-end gap-6 text-lg order-1 sm:order-2">
