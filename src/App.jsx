@@ -65,9 +65,9 @@ return (
           MAKNOON<span className="text-pink-400">STORE</span>
         </h1>
 
-        {/* Content */}
+        {/* Intro */}
         {page === 0 ? (
-          <Intro products={products} />
+          <Intro products={products} setPage={setPage} />
         ) : (
           <div className="flex flex-col md:flex-row items-center gap-8 px-6 max-w-5xl w-full">
             <ProductCard product={products[page - 1]} />
