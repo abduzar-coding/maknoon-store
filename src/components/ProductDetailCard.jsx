@@ -57,7 +57,7 @@ export default function ProductDetailCard({ product }) {
 
       {/* Buy Button */}
       <a
-        href={`https://t.me/maknoonmanager?text=Salom,%20men%20${encodeURIComponent(
+        href={`https://t.me/maknoonstore?text=Salom,%20men%20${encodeURIComponent(
           product.name
         )}%20(${encodeURIComponent(product.price)})%20sotib%20olmoqchiman`}
         target="_blank"

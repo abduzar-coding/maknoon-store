@@ -23,7 +23,7 @@ export default function App() {
       name: "Arabcha Husnixat Daftari",
       img: "/images/arabcha-husnixat.jpg",
       description: "Allohning 99 ismi sifatlarini o’rganish va sharhlash uchun mo’ljallangan jurnal",
-      price: "60 000 so‘m",
+      price: "40 000 so‘m",
       bg: "bg-gradient-to-r from-indigo-200 via-sky-100 to-white bg-[length:200%_200%] animate-gradient-x",
     },
     {
@@ -31,7 +31,7 @@ export default function App() {
       name: "Asma-ul Husna Jurnali",
       img: "/images/asma-ul-husna.jpg",
       description: "Husnixat - Arab yozuvini go‘zal va to‘g‘ri yozishni o‘rgatuvchi mashq daftari.",
-      price: "40 000 so‘m",
+      price: "60 000 so‘m",
       bg: "bg-gradient-to-r from-emerald-200 via-teal-100 to-white bg-[length:200%_200%] animate-gradient-xy",
     },
     {
